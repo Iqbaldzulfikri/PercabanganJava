@@ -1,5 +1,7 @@
 public class percabangan1 {
+
     public static void main(String[] args) {
+    
 // Loop untuk mencetak angka 1 sampai 6, tiga kali
 for (int i = 0; i < 3; i++) { // Mengulang sebanyak 3 kali
     for (int j = 1; j <= 6; j++) { // Mencetak angka 1 sampai 6
@@ -12,7 +14,9 @@ for (int i = 0; i < 3; i++) { // Mengulang sebanyak 3 kali
 
 
 public class percabangan2{
+
     public static void main(String[] args) {
+    
         // Loop untuk mencetak tiga baris
         for (int i = 1; i <= 3; i++) { // i akan menjadi 1, 2, dan 3
             for (int j = 1; j <= 6; j++) { // Loop untuk mencetak 6 angka
@@ -30,7 +34,9 @@ public class percabangan2{
 
 
 public class percabangan3 {
+
     public static void main(String[] args) {
+    
         // Jumlah baris yang akan dicetak
         int rows = 6;
 
@@ -47,7 +53,9 @@ public class percabangan3 {
 
 
 public class percabangan4 {
+
     public static void main(String[] args) {
+    
         // Mengatur jumlah baris yang akan dicetak
         int rows = 3;
 
@@ -77,7 +85,9 @@ public class percabangan4 {
 
 
 public class percabangan5 {
+
     public static void main(String[] args) {
+    
         // Jumlah baris yang akan dicetak
         int rows = 6;
 
@@ -100,7 +110,9 @@ public class percabangan5 {
 
 
 public class percabangan6 {
+
     public static void main(String[] args) {
+    
         // Menentukan jumlah elemen deret yang akan dicetak
         int n = 9;
         
